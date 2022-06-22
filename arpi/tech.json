@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "image": "https://m.media-amazon.com/images/I/91LSF1iZUFL._AC_SL1500_.jpg?webp=true",
+        "name":"Skytech Prism II Gaming PC Desktop",
+        "description":"AMD Ryzen 9 3900X 3.8GHz, RTX 3090 24GB, 32GB 3600mhz RGB Memory, 1TB Gen4 SSD, 360mm AIO"
+    }
+    ,
+    {
+        "id":2,
+        "image": "https://vrlatech.com/wp-content/uploads/2021/12/PhoenixMain45-Edit-Edit.jpg?webp=true",
+        "name":"Phoenix Gaming PC",
+        "description":"AMD Ryzen 9 5900X, Asus ROG Crosshair VIII Dark Hero, Deepcool/VRLA Tech Castle 360EX, ASUS TUF NVIDIA GeForce RTX 3080"
+    },
+    {
+        "id":3,
+        "image": "https://dlcdnwebimgs.asus.com/gain/7F0DCC94-37E0-44D6-85E0-78E898D9DF4B/w717/h525?webp=true&resize=300,272",
+        "name":"ROG-STRIX-RTX2080TI-A11G-GAMING",
+        "description":"ROG Strix GeForce RTX™ 2080 Ti Advanced edition 11GB GDDR6 with enthusiast-level technology for extreme 4K and VR gaming"
+    },
+    {
+        "id":4,
+        "image": "https://c1.neweggimages.com/ProductImage/14-126-302-V04.jpg?webp=true",
+        "name":"ROG STRIX GEFORCE RTX™ 2080 TI WHITE EDITION",
+        "description":"NVIDIA® GeForce RTX™ 2080 Ti, PCI Express 3.0, 11GB GDDR6, 14800 MHz"
+    },
+    {
+        "id":5,
+        "image":"https://static.gigabyte.com/StaticFile/Image/Global/9b33fbf4be086b2bad7d738897ca5028/Product/30680/png/500?wepb=true",
+        "name":"AORUS RGB Memory DDR5 32GB (2x16GB) 6000MHz",
+        "description":"AORUS RGB Memory DDR5 6000MHz 32GB Memory Kit, XMP 3.0, Supports AORUS Memory Boost and RGB Fusion 2.0, Selected High Quality Memory ICs, INTEL Z690 certified"
+    },
+    {
+        "id":6,
+        "image":"https://static.gigabyte.com/StaticFile/Image/Global/0a9a5a2c878666fd43c158a5dfd76019/Product/19876/png/500?webp=true",
+        "name":"AORUS RGB Memory 16GB (2x8GB) 3200MHz",
+        "description":"16GB Kit (2 x 8GB) DDR4-3200 MHz"
+    },
+    {   
+        "id":7,
+        "image":"https://static.gigabyte.com/StaticFile/Image/Global/60771933c1873d5e36376226e82c1b32/Product/30777/png/500?webp=true",
+        "name":"Z690 GAMING X DDR4 V2 (rev. 1.0)",
+        "description":"Intel® Z690 GAMING Motherboard with 16*+1+2 Twin Hybrid Phases Digital Power Design , PCIe 5.0 Design, Fully Covered Thermal Design, 4 x PCIe 4.0 M.2 with Enlarged Thermal Guard, 2.5GbE LAN, 120dB Hi-Res Audio with WIMA, Rear USB 3.2 Gen2x2 TYPE-C®, RGB FUSION 2.0, Q-Flash Plus​"
+    },
+    {
+        "id":8,
+        "image":"https://static.gigabyte.com/StaticFile/Image/Global/97c8398f1765557b873212d5c46aa635/Product/31471/png/500?webp=true",
+        "name":"H610M S2 DDR4 (rev. 1.2)",
+        "description":"Intel® H610 Motherboard with 6+1+1 Hybrid Phases Digital VRM Design, PCIe 4.0* Design, Gen3 x4 M.2 , Realtek Gaming LAN, Anti-Sulfur Resistor, Smart Fan 6"
+    },
+    {
+        "id":9,
+        "image":"https://storage.eu.aoc.com/assets/2022/01/asset-mryidp-small.png?webp=true",
+        "name":"Q32V4",
+        "description":"31.5 inch, 4 ms, 75 Hz, 4K UHD"
+    },
+    {
+        "id":10,
+        "image":"https://storage.eu.aoc.com/assets/2022/01/asset-kprjzm-small.png?webp=true",
+        "name":"U32P2",
+        "description":"31.5 inch, 2 ms, 60Hz, 8K UHD"
+    }
+]
